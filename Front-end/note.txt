@@ -1,0 +1,15 @@
+mọi người vào file env trong my-app để đổi lại đường dẫn Api
+mọi người PHẢI cho vào htdocs thì link api là:http://localhost:8080/reactjstest/clotheapi/public/api
+cái port thì tùy máy nhá
+
+
+
+ĐÃ CODE:
+-full API
+
+-Các table có full 5 chức năng(Thêm, xóa, sửa, xem hết, và xem 1 thành phần):product, accounts, brand, catesex
+									    age.
+-Các table còn lại thì sẽ chỉ có 3 chức năng (thêm, xem hết và xem 1 thành phần), nguoaij trừ table commment 
+coi được hẳn 4 chức năng ( trừ xóa)
+
+
